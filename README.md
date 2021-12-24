@@ -7,12 +7,12 @@ This project aims to provide a good analysis on a few questions like the total p
 
 Data Processing and Cleaning: The script takes the .csv file as input. It checks for the Null values and fill the mean value of the column in place of null.
 
-Data Analysis: The script is used to answer the following questions:
+Data Analysis: The script is used to find the followings:
 
-•	Total population of Asia.
-•	Top 5 Highest density Country
-•	Top 5 Highest percentage Urban population Country
-•	Top 5 Maximum Median Age Country
+1.	Total population of Asia in 2020.
+2.	Top 5 Highest density Countries.
+3.	Top 5 countries with highest percentage Urban population.
+4.	Identifying top 5 countries with largest median age.
 
 ## Instructions to run Python File
 

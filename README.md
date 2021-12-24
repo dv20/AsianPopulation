@@ -5,7 +5,7 @@ This project aims to provide a good analysis on a few questions like the total p
 
 ## Project Summary
 
-Data Processing and Cleaning: The script takes the .csv file as input. It checks for the Null values and deletes the null rows to handle them.
+Data Processing and Cleaning: The script takes the .csv file as input. It checks for the Null values and fill the mean value of the column in place of null.
 
 Data Analysis: The script is used to answer the following questions:
 
